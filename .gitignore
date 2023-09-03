@@ -6,3 +6,4 @@ CmakeCache.txt
 Makefile
 cmake_install.cmake
 res/**
+!res/.gitkeep
