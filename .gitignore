@@ -1,0 +1,8 @@
+photos
+build
+.vscode
+CmakeFiles
+CmakeCache.txt
+Makefile
+cmake_install.cmake
+res/**
